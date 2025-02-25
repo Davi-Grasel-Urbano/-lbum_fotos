@@ -16,5 +16,21 @@ body {
 }
 
 .container {
-  background-color: red;
+  background-color: #a82def;
+  width: 81.5%;
+  height: 600px;
+  margin: auto;
+  margin-top: 2%;
+  border-radius: 10px;
+}
+
+.foto {
+  background-color: #5700a2;
+  width: 25%;
+  margin-top: 2%;
+  margin-left: 2%;
+  opacity: 1;
+  border-radius: 10px;
+  border: 2px solid #5700a2;
+  padding: 10px;
 }
